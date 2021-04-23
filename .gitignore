@@ -1,6 +1,7 @@
 # node files
-dist/
+# dist/
 node_modules/
+.vscode
 
 # iOS files
 Pods
